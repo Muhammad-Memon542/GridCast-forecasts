@@ -1,6 +1,6 @@
 # GridCast live scorecard
 
-Generated 2026-11-03T19:20:11+00:00. Published days: 17; scored: 17.
+Generated 2026-11-04T14:04:57+00:00. Published days: 18; scored: 17.
 Day-ahead Ontario Zonal Price forecasts issued 09:00 Toronto time the day before.
 
 | Window | Days | CRPS | MAE ($/MWh) | 80% coverage | 90% coverage |
